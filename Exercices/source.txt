@@ -1,0 +1,17 @@
+bonjour
+0
+1
+12, le chiffre est 12
+1.6
+.6
+-1.
+-1E-05 
+-12.23E12 
+ Commence par un espace
+  Commence par deux espaces
+	Commence par une Tabulation
+		Commence par deux tabulations
+
+A
+a 
+a.a

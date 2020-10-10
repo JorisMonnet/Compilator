@@ -1,0 +1,14 @@
+ligne de code;  //commentaire1 java 
+//    un autre commentaire2 //
+//
+toto@gmail.com
+to-to@gmail.com
+francois.tieche@he-arc.ch 
+françois.tièche@he-àrc.ch 
+	
+http://alpha.ch/src/toto.html
+	
+a camelCase word
+a CamelCase word
+not a CAMELCase word
+not a CamelcasE word
