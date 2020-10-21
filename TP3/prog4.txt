@@ -1,0 +1,4 @@
+toto = 12*(3)+4;
+a = toto+1; a*2;
+while a;
+print toto
