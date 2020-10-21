@@ -12,8 +12,9 @@ def p_programme_statement(p):
     
 def p_statement(p):
     '''statement : assignation
-        | structure'''
-    p[0]= AST.AssignNode(p[1])
+        | expression
+        | structure '''
+    p[0] = p[1]
 
 def p_statement_print(p):
     '''statement : PRINT expression'''
