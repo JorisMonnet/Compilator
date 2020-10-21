@@ -15,7 +15,7 @@ tokens = (
 
 t_ADD_OP = r'[\+-]'
 t_MUL_OP = r'[\*/]'
-literals = r'[\(\);=]'
+literals = r'[\(\);=\{\}]'
 
 def t_IDENTIFIER(t):
     r'[A-Za-z_]\w*'
