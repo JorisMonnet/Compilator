@@ -1,0 +1,4 @@
+PUSHC 4.0
+SET a
+PUSHV a
+PRINT
